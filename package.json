@@ -30,17 +30,16 @@
     "typescript"
   ],
   "dependencies": {
-    "@types/bluebird": "^3.5.18",
-    "@types/commander": "^2.11.0",
-    "@types/node": "^8.0.47",
-    "bluebird": "^3.4.7",
+    "@types/commander": "^2.12.2",
+    "@types/node": "^8.10.49",
+    "bluebird": "^3.5.5",
     "cget": "^0.2.1",
-    "commander": "^2.11.0",
-    "cxml": "~0.1.1",
-    "node-expat": "^2.3.16"
+    "commander": "^2.20.0",
+    "cxml": "^0.1.1",
+    "node-expat": "^2.3.18"
   },
   "devDependencies": {
-    "tslint": "^5.8.0",
-    "typescript": "^2.5.3"
+    "tslint": "^5.17.0",
+    "typescript": "^2.9.2"
   }
 }
